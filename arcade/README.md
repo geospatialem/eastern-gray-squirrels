@@ -178,9 +178,9 @@ return {
 };
 ```
 
-## Collection days indicator
+### Collection days indicator
 
-### Data expression
+#### Data expression
 
 ```js
 var fs = FeatureSetByPortalItem(
