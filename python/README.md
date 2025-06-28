@@ -1,6 +1,6 @@
 # Python
 
-## [Squirrel Automation via Notebooks](https://jsapi.maps.arcgis.com/home/notebook/notebook.html?id=3f84d0a14ae843beb83dfbdff2897e7f)
+## [Squirrel Automation via Notebooks](https://jsapi.maps.arcgis.com/home/item.html?id=3f84d0a14ae843beb83dfbdff2897e7f)
 
 ### 1. Run this cell to connect to your GIS and get started:
 
