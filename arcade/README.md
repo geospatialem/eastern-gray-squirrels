@@ -2,10 +2,7 @@
 
 This directory contains data expressions that drives the Squirrel Morph Sightings Map Viewer and Dashboard.
 
-- [Map Viewer](#map-viewer)
-- [Dashboard](#dashboard)
-
-## [Map Viewer](https://jsapi.maps.arcgis.com/apps/mapviewer/index.html?webmap=628500cb6c834ed98d8b9fc0c4c06e07)
+### [Map Viewer](https://jsapi.maps.arcgis.com/apps/mapviewer/index.html?webmap=628500cb6c834ed98d8b9fc0c4c06e07)
 
 - [Popup title expression](./popup-title-expression.js)
 - [Popup content expression](./popup-content-expression.js)
@@ -13,7 +10,7 @@ This directory contains data expressions that drives the Squirrel Morph Sighting
 - [Squirrels with photos style expression](./squirrels-with-photos-style-expression.js)
 
 
-## [Dashboard](https://www.arcgis.com/apps/dashboards/21159e6135bc40158c4314782fc20f5c)
+### [Dashboard](https://www.arcgis.com/apps/dashboards/21159e6135bc40158c4314782fc20f5c)
 
 - [Black squirrels indicator](./black-squirrels-indicator.js)
 - [White squirrels indicator](./white-squirrels-indicator.js)
