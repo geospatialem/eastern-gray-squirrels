@@ -1,6 +1,6 @@
 # Arcade
 
-This directory contains data expressions that drives the Squirrel Morph Sightings Map Viewer and Dashboard.
+This directory contains data expressions that drive the Squirrel Morph Sightings Map Viewer and Dashboard.
 
 ### [Map Viewer](https://jsapi.maps.arcgis.com/apps/mapviewer/index.html?webmap=628500cb6c834ed98d8b9fc0c4c06e07)
 
