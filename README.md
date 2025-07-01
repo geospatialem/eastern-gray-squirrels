@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository collects and analyzes data on the **Eastern gray squirrel**. The project uses the ArcGIS tech stack to explore patterns in squirrel distribution and fur color variation.
+This repository collects and analyzes data on the **Eastern gray squirrel**. The project uses the ArcGIS technology stack to explore patterns in squirrel distribution and color morph variation.
 
 ## Features
 
