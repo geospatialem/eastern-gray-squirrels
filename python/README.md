@@ -1,5 +1,6 @@
 # Python automation
-This directory contains ready-to-use ArcGIS Notebooks (.ipynb).
+
+This directory contains ready-to-use [ArcGIS Notebooks](https://doc.arcgis.com/en/arcgis-online/get-started/components-of-the-notebook-editor.htm) (.ipynb).
 
 ## [Squirrel Automation via Notebooks](./squirrel-automation.ipynb)
 
@@ -11,7 +12,7 @@ This step automates the process of populating the `Photo_URL` field in your feat
 
 #### Translates English Notes to Spanish
 
-This automation searches for features that have English notes but lack Spanish translations. It uses the Google Translate API to translate the contents of the `Notes` field from English to Spanish and updates the `Notes_es` field in your feature layer accordingly.
+This automation searches for features that have English notes but lack Spanish translations. It uses the [Google Translate API](https://translate.google.com/) to translate the contents of the `Notes` field from English to Spanish and updates the `Notes_es` field in your feature layer accordingly.
 
 ### Feature Layer Schema
 
