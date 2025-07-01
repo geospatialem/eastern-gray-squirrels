@@ -16,10 +16,10 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 ## Tech stack
 
-- ArcGIS Survey123         # Mobile collection
-- ArcGIS Dashboards        # Visualization
-- ArcGIS Notebooks         # Automated data processing
-- ArcGIS Online Map Viewer # Data authoring
+- **ArcGIS Survey123** for mobile collection
+- **ArcGIS Dashboards** for data visualization
+- **ArcGIS Notebooks** for automated data processing
+- **ArcGIS Online Map Viewer** for data authoring
 
 ## Repository Structure
 
