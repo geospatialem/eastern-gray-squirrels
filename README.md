@@ -8,11 +8,11 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 ## Features
 
-- **Data preprocessing** scripts for squirrel observation.
+- **Data preprocessing** scripts for squirrel observation
 - **Exploratory data analysis** including:
-  - Distribution of sightings.
-  - Analysis of fur color variation.
-- **Visualization** to explore squirrel data.
+  - Distribution of sightings
+  - Analysis of fur color variation
+- **Visualization** to explore squirrel data
 
 ## Tech stack
 
@@ -32,11 +32,11 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 ## Example Analysis
 
-- **Number of collection days**.
-- **Latest squirrel observations**.
-- **Squirrel observations with pictures**.
-- **Black vs White squirrels sightings**.
-- **Number of days to Harvest Fest**.
+- Number of collection days
+- Latest squirrel observations
+- Squirrel observations with pictures
+- Black vs White squirrels sightings
+- Number of days to Harvest Fest
 
 ## Contributing
 
