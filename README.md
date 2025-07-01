@@ -1,4 +1,4 @@
-# Eastern Gray Squirrels
+# Eastern Gray Squirrels 🐿️
 
 **A repository for data and analysis on the Eastern gray squirrel.**
 
