@@ -15,4 +15,4 @@ This automation searches for features that have English notes but lack Spanish t
 
 ### Feature Layer Schema
 
-The Python Notebook is tied to the [Squirrel Morphy Sightings](https://arcgis-devlabs.maps.arcgis.com/home/item.html?id=e714bfeed51f447b8a36051dd62c0666) feature service. You can review the feature layer schema [here](https://services.arcgis.com/V6ZHFr6zdgNZuVG0/ArcGIS/rest/services/Squirrel_morph_sightings/FeatureServer/0).
+The Python Notebook is tied to the [Squirrel Morph Sightings](https://arcgis-devlabs.maps.arcgis.com/home/item.html?id=e714bfeed51f447b8a36051dd62c0666) feature service. You can review the feature layer schema [here](https://services.arcgis.com/V6ZHFr6zdgNZuVG0/ArcGIS/rest/services/Squirrel_morph_sightings/FeatureServer/0).
