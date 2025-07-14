@@ -16,10 +16,10 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 ## Tech stack
 
-- **ArcGIS Survey123** for mobile collection
-- **ArcGIS Dashboards** for data visualization
-- **ArcGIS Notebooks** for automated data processing
-- **ArcGIS Online Map Viewer** for data authoring
+- **[ArcGIS Survey123](https://jsapi.maps.arcgis.com/home/item.html?id=839d3eb3116347cc9c4a7ed9f8fb37c4)** for mobile collection
+- **ArcGIS Online Map Viewer ([English](https://jsapi.maps.arcgis.com/apps/mapviewer/index.html?webmap=628500cb6c834ed98d8b9fc0c4c06e07) || [Spanish](https://jsapi.maps.arcgis.com/apps/mapviewer/index.html?webmap=628500cb6c834ed98d8b9fc0c4c06e07&locale=es))** for data authoring
+- **ArcGIS Dashboards ([English](https://www.arcgis.com/apps/dashboards/21159e6135bc40158c4314782fc20f5c) || [Spanish](https://www.arcgis.com/apps/dashboards/21159e6135bc40158c4314782fc20f5c#locale=es))** for data visualization
+- **[ArcGIS Notebooks](https://jsapi.maps.arcgis.com/home/item.html?id=3f84d0a14ae843beb83dfbdff2897e7f)** for automated data processing
 
 ## Repository Structure
 
@@ -40,7 +40,7 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for bug fixes, data additions, or new analysis features.
+Contributions are welcome! Please [open an issue](https://github.com/geospatialem/eastern-gray-squirrels/issues/new) or submit a pull request for bug fixes, data additions, or new analysis features.
 
 ## License
 
