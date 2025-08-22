@@ -2,21 +2,21 @@
 var locale = GetEnvironment().locale;
 if (locale == "es") {
   var indicatorHeading = "Días de colección";
-  var harvestFestivalText = "días restantes";
+  var daysRemainText = "días restantes";
 } else {
   var indicatorHeading = "Collection days";
-  var harvestFestivalText = "days to go!";
+  var daysRemainText = "days to go!";
 }
 
-// Important dates :-)
-var today = Now();
-var harvestFestival = Date(2025, 7, 21, 8, 0, 0, 0, "America/Chicago");
-var untilHarvest = Ceil(DateDiff(harvestFestival, today, "days") - 1);
+// Important collection dates
+var todaysDate = Now();
+var importantDate = Date(2026, 2, 10);
+var daysTilImportantDate = Ceil(DateDiff(importantDate, todaysDate, "days"));
 
 return {
   topText: `${indicatorHeading}`,
   topTextMaxSize: "medium",
   middleText: $datapoint.COUNT_ROW__ID,
   middleTextMaxSize: "large",
-  bottomText: `${untilHarvest} ${harvestFestivalText} 🌽`,
+  bottomText: `${daysTilImportantDate} ${daysRemainText} 🐿️`,
 };
