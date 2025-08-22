@@ -19,4 +19,4 @@ return {
   middleText: $datapoint.COUNT_ROW__ID,
   middleTextMaxSize: "large",
   bottomText: `${daysTilImportantDate} ${daysRemainText} 🐿️`,
-}
+};
