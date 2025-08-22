@@ -4,8 +4,8 @@ if (locale == "es") {
   var indicatorHeading = "Días de colección";
   var daysRemainText = "días restantes";
 } else {
-  var indicatorHeading  = "Collection days"
-  var daysRemainText = "days to go!"
+  var indicatorHeading = "Collection days";
+  var daysRemainText = "days to go!";
 }
 
 // Important collection dates
@@ -15,8 +15,8 @@ var daysTilImportantDate = Ceil(DateDiff(importantDate, todaysDate, "days"));
 
 return {
   topText: `${indicatorHeading}`,
-  topTextMaxSize: 'medium',
+  topTextMaxSize: "medium",
   middleText: $datapoint.COUNT_ROW__ID,
-  middleTextMaxSize: 'large',
+  middleTextMaxSize: "large",
   bottomText: `${daysTilImportantDate} ${daysRemainText} 🐿️`,
 }
