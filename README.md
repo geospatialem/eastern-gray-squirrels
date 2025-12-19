@@ -21,7 +21,7 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 - **ArcGIS Dashboards ([English](https://www.arcgis.com/apps/dashboards/21159e6135bc40158c4314782fc20f5c) || [Spanish](https://www.arcgis.com/apps/dashboards/21159e6135bc40158c4314782fc20f5c#locale=es))** for data visualization
 - **[ArcGIS Notebooks](https://jsapi.maps.arcgis.com/home/item.html?id=3f84d0a14ae843beb83dfbdff2897e7f)** for automated data processing
 - **[ArcGIS Hosted Feature Layer Webhook](https://doc.arcgis.com/en/arcgis-online/reference/webhooks-online.htm)** for allowing a web application or service to send near real-time information to another web service
-- **[Microsoft PowerAutomate ArcGIS Connectors](https://doc.arcgis.com/en/power-automate/latest/get-started/get-started-with-arcgis-connectors-for-power-automate.htm)** for integrating ArcGIS processes with automation
+- **[Microsoft Power Automate ArcGIS Connectors](https://doc.arcgis.com/en/power-automate/latest/get-started/get-started-with-arcgis-connectors-for-power-automate.htm)** for integrating ArcGIS processes with automation
 
 ## Repository Structure
 
