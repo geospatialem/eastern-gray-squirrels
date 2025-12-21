@@ -13,6 +13,7 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
   - Distribution of sightings
   - Analysis of fur color variation
 - **Visualization** to explore squirrel data
+- **Automation** to ease data collection and provide on-demand content to more audiences
 
 ## Tech stack
 
