@@ -6,7 +6,7 @@
 
 This repository collects and analyzes data on the **Eastern gray squirrel**. The project uses the ArcGIS technology stack to explore patterns in squirrel distribution and color morph variation.
 
-Explore the 2026 Developer & Technology Summit slides for <a href="arcgis-apps-enhancing-accessibility-and-localization.pdf" target="_blank">ArcGIS Apps: Enhancing Accessibility and Localization</a>, opens in a new window.
+Explore the 2026 Developer & Technology Summit slides for <a href="arcgis-apps-enhancing-accessibility-and-localization.pdf" target="_blank" rel="noopener noreferrer">ArcGIS Apps: Enhancing Accessibility and Localization</a>, opens in a new window.
 
 ## Features
 
