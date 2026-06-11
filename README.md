@@ -10,10 +10,16 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 - "**ArcGIS Apps: Enhancing Accessibility and Localization**" presented at the 2026 Esri Developer & Technology Summit on Thursday, March 12 in Palm Springs, California
   - <a href="arcgis-apps-enhancing-accessibility-and-localization.pdf" target="_blank" rel="noopener noreferrer">Slides</a>, opens in a new window
-  - <a href="https://registration.esri.com/flow/esri/26epcdev/deveventportal/page/detailed-agenda/session/1761120762447001nrNf" target="_blank" rel="noopener noreferrer">Recording</a>, opens in a new window
+  - <a href="https://mediaspace.esri.com/media/t/1_lwccn3nb/394319663" target="_blank" rel="noopener noreferrer">Recording</a>, opens in a new window
 - 🔜 "**ArcGIS: Automating and Enhancing Apps for Accessibility and Localization**" to be presented at the 2026 Esri User Conference on Tuesday, July 14 in San Diego, California
   - <a href="https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763065877459001w3Vj" target="_blank" rel="noopener noreferrer">Session details</a>, opens in a new window
   - _Slides, coming soon_
+
+### Blog posts
+
+- [Part 1: Increasing Accessibility and Internationalization in your ArcGIS Apps](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/increasing-accessibility-and-internationalization-in-your-arcgis-apps), _June 2026_
+- [Part 2: Increasing Accessibility and Internationalization in your ArcGIS Apps](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/part-2-increasing-accessibility-and-internationalization-in-your-arcgis-apps), _June 2026_
+- [Optimize Your Popups for Accessibility and Internationalization](https://www.esri.com/arcgis-blog/products/arcgis-online/arcade/optimize-your-popups-for-accessibility-and-internationalization), _April 2025_
 
 ## Features
 
