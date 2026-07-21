@@ -17,7 +17,7 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 #### 2026 User Conference
 
-**ArcGIS: Automating and Enhancing Apps for Accessibility and Localization**" to be presented at the 2026 Esri User Conference on Tuesday, July 14 in San Diego, California.
+**ArcGIS: Automating and Enhancing Apps for Accessibility and Localization** presented at the 2026 Esri User Conference on Tuesday, July 14 in San Diego, California.
 
 - <a href="arcgis-automating-and-enhancing-apps-for-a11y-and-l18n.pdf" target="_blank" rel="noopener noreferrer">Slides</a>, opens in a new window
 - <a href="https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763065877459001w3Vj" target="_blank" rel="noopener noreferrer">Session details</a>, opens in a new window
