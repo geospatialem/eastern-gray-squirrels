@@ -8,12 +8,20 @@ This repository collects and analyzes data on the **Eastern gray squirrel**. The
 
 ### Recordings and slides
 
-- "**ArcGIS Apps: Enhancing Accessibility and Localization**" presented at the 2026 Esri Developer & Technology Summit on Thursday, March 12 in Palm Springs, California
-  - <a href="arcgis-apps-enhancing-accessibility-and-localization.pdf" target="_blank" rel="noopener noreferrer">Slides</a>, opens in a new window
-  - <a href="https://mediaspace.esri.com/media/t/1_lwccn3nb/394319663" target="_blank" rel="noopener noreferrer">Recording</a>, opens in a new window
-- 🔜 "**ArcGIS: Automating and Enhancing Apps for Accessibility and Localization**" to be presented at the 2026 Esri User Conference on Tuesday, July 14 in San Diego, California
-  - <a href="https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763065877459001w3Vj" target="_blank" rel="noopener noreferrer">Session details</a>, opens in a new window
-  - _Slides, coming soon_
+#### 2026 Developer and Technology Summit
+
+**ArcGIS Apps: Enhancing Accessibility and Localization** presented at the 2026 Esri Developer & Technology Summit on Thursday, March 12 in Palm Springs, California.
+
+- <a href="arcgis-apps-enhancing-accessibility-and-localization.pdf" target="_blank" rel="noopener noreferrer">Slides</a>, opens in a new window
+- <a href="https://mediaspace.esri.com/media/t/1_lwccn3nb/394319663" target="_blank" rel="noopener noreferrer">Recording</a>, opens in a new window
+
+#### 2026 User Conference
+
+**ArcGIS: Automating and Enhancing Apps for Accessibility and Localization**" to be presented at the 2026 Esri User Conference on Tuesday, July 14 in San Diego, California.
+
+- <a href="arcgis-apps-enhancing-accessibility-and-localization.pdf" target="_blank" rel="noopener noreferrer">Slides</a>, opens in a new window
+- <a href="https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763065877459001w3Vj" target="_blank" rel="noopener noreferrer">Session details</a>, opens in a new window
+- Recording, _coming soon_
 
 ### Blog posts
 
